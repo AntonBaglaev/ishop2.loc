@@ -22,3 +22,11 @@
 ========
 [2022-09-18 12:55:54] Текст ошибки: Страница не найдена!!! | Файл: G:\OpenServer\domains\ishop2.loc\public\index.php Строка: 8
 ========
+[2022-09-18 17:03:31] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 26
+========
+[2022-09-18 18:08:49] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 34
+========
+[2022-09-18 18:12:29] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 31
+========
+[2022-09-18 18:12:44] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 31
+========
