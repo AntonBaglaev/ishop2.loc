@@ -30,3 +30,5 @@
 ========
 [2022-09-18 18:12:44] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 31
 ========
+[2022-09-18 18:33:02] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 37
+========
