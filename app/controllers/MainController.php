@@ -2,13 +2,16 @@
 
 namespace app\controllers;
 
-use ishop\App;
-
 class MainController extends AppController{
 
     public function indexAction(){
-        //echo __METHOD__;
-        
-    }
+        $posts = \R::findAll('test');
+        //debug($posts);
+        $this->setMeta('Главная страница', 'Описание...', 'ключевики');
+        $name = 'John';
+        $age = 30;
+        $names = ['Andrey', 'Jane', ];
+        $this->set(compact('name', 'age', 'names', 'posts'));
+    }    
 
 }

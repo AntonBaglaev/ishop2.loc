@@ -34,3 +34,63 @@
 ========
 [2022-09-18 20:42:41] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 35
 ========
+[2022-09-24 22:11:51] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 38
+========
+[2022-09-24 23:36:36] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 38
+========
+[2022-09-25 00:28:22] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 38
+========
+[2022-09-25 15:17:28] Текст ошибки: Call to undefined function getMeta() | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\default.php Строка: 8
+========
+[2022-09-25 15:23:42] Текст ошибки: Call to undefined method ishop\base\View::setMeta() | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\default.php Строка: 8
+========
+[2022-09-25 15:47:29] Текст ошибки: Call to undefined function app\controllers\set() | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 15
+========
+[2022-09-25 15:47:30] Текст ошибки: Call to undefined function app\controllers\set() | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 15
+========
+[2022-09-25 16:35:49] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 37
+========
+[2022-09-25 16:35:50] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 37
+========
+[2022-09-25 16:35:52] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 37
+========
+[2022-09-25 16:35:52] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 37
+========
+[2022-09-25 16:35:53] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 37
+========
+[2022-09-25 16:35:55] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 37
+========
+[2022-09-25 18:05:00] Текст ошибки: Class 'app\models\Model' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\models\AppModel.php Строка: 6
+========
+[2022-09-25 18:06:33] Текст ошибки: Class 'app\models\Model' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\models\AppModel.php Строка: 6
+========
+[2022-09-25 18:06:34] Текст ошибки: Class 'app\models\Model' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\models\AppModel.php Строка: 6
+========
+[2022-09-25 18:07:01] Текст ошибки: Class 'app\models\Model' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\models\AppModel.php Строка: 6
+========
+[2022-09-25 18:08:20] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:08:20] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:08:21] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:38] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:39] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:39] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:39] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:58] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:59] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:59] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:59] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:09:59] Текст ошибки: syntax error, unexpected 'class' (T_CLASS), expecting '{' | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 5
+========
+[2022-09-25 18:50:25] Текст ошибки: syntax error, unexpected ';', expecting ')' | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\default.php Строка: 21
+========
