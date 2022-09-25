@@ -94,3 +94,17 @@
 ========
 [2022-09-25 18:50:25] Текст ошибки: syntax error, unexpected ';', expecting ')' | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\default.php Строка: 21
 ========
+[2022-09-25 20:45:48] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 14
+========
+[2022-09-25 20:45:49] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 14
+========
+[2022-09-25 20:46:47] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 14
+========
+[2022-09-25 20:46:47] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 14
+========
+[2022-09-25 20:48:38] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 14
+========
+[2022-09-25 20:48:39] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 14
+========
+[2022-09-25 20:50:48] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 14
+========
