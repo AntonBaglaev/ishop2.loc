@@ -380,3 +380,15 @@
 ========
 [2022-10-02 17:29:46] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
 ========
+[2022-10-02 18:12:26] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: G:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка: 206
+========
+[2022-10-02 18:12:47] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: G:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка: 206
+========
+[2022-10-02 18:16:55] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: G:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка: 206
+========
+[2022-10-02 18:17:02] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: G:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка: 206
+========
+[2022-10-02 19:23:09] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: G:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка: 206
+========
+[2022-10-02 19:59:28] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: G:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка: 206
+========
