@@ -392,3 +392,13 @@
 ========
 [2022-10-02 19:59:28] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: G:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка: 206
 ========
+[2022-10-02 22:06:08] Текст ошибки: syntax error, unexpected ':', expecting ')' | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 13
+========
+[2022-10-02 22:06:25] Текст ошибки: syntax error, unexpected ':', expecting ')' | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\MainController.php Строка: 13
+========
+[2022-10-02 22:35:57] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-10-02 22:39:42] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-10-02 22:43:02] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
