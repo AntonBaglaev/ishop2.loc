@@ -436,3 +436,7 @@
 ========
 [2022-10-09 17:36:13] Текст ошибки: Object of class app\widget\currency\Currency could not be converted to string | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 30
 ========
+[2022-10-09 21:17:06] Текст ошибки: syntax error, unexpected ';', expecting ']' | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 72
+========
+[2022-10-09 21:17:43] Текст ошибки: Class 'app\wodget\menu\Menu' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 71
+========
