@@ -402,3 +402,35 @@
 ========
 [2022-10-02 22:43:02] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
 ========
+[2022-10-09 12:34:17] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-10-09 16:00:20] Текст ошибки: Class 'app\controllers\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 13
+========
+[2022-10-09 16:02:07] Текст ошибки: Class 'app\widgets\currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:02:07] Текст ошибки: Class 'app\widgets\currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:03:11] Текст ошибки: Class 'app\widgets\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:03:12] Текст ошибки: Class 'app\widgets\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:03:12] Текст ошибки: Class 'app\widgets\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:03:12] Текст ошибки: Class 'app\widgets\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:03:13] Текст ошибки: Class 'app\widgets\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:03:13] Текст ошибки: Class 'app\widgets\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:07:48] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 14
+========
+[2022-10-09 16:08:58] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 17
+========
+[2022-10-09 16:08:59] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 17
+========
+[2022-10-09 16:08:59] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 17
+========
+[2022-10-09 16:08:59] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 17
+========
+[2022-10-09 16:55:38] Текст ошибки: syntax error, unexpected ';', expecting ')' | Файл: G:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php Строка: 17
+========
