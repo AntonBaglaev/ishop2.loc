@@ -440,3 +440,13 @@
 ========
 [2022-10-09 21:17:43] Текст ошибки: Class 'app\wodget\menu\Menu' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 71
 ========
+[2022-10-10 21:27:06] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-10-11 21:47:08] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-10-29 10:43:03] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-10-29 10:43:20] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-10-29 21:59:27] Текст ошибки: syntax error, unexpected ''attrs'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 73
+========
