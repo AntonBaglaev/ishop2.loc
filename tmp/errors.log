@@ -450,3 +450,7 @@
 ========
 [2022-10-29 21:59:27] Текст ошибки: syntax error, unexpected ''attrs'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 73
 ========
+[2022-10-30 17:19:13] Текст ошибки: Нет соединения с БД | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php Строка: 14
+========
+[2022-10-30 17:19:13] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
