@@ -572,3 +572,27 @@
 ========
 [2022-11-26 18:14:14] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
 ========
+[2022-11-26 18:17:08] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-11-26 18:19:44] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-11-26 18:22:49] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-11-26 18:23:27] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-11-26 18:27:09] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-11-26 18:31:00] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-22 16:42:07] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-12-22 16:42:09] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-22 16:42:16] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-23 10:52:18] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2022-12-23 11:13:02] Текст ошибки: syntax error, unexpected '?>', expecting ':' | Файл: G:\OpenServer\domains\ishop2.loc\app\views\Product\view.php Строка: 30
+========
+[2022-12-23 11:13:19] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
