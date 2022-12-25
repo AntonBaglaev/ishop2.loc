@@ -598,3 +598,25 @@
 ========
 [2022-12-23 12:34:59] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
 ========
+[2022-12-23 13:18:34] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-23 13:24:34] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-23 13:24:36] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-23 13:24:40] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-23 13:30:47] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-23 13:42:22] Текст ошибки: Class 'app\widget\menu\Menu' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 73
+========
+[2022-12-23 13:42:23] Текст ошибки: Class 'app\widget\menu\Menu' not found | Файл: G:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php Строка: 73
+========
+[2022-12-23 17:16:35] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-25 20:12:20] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2022-12-25 21:08:01] Текст ошибки: Call to undefined function app\models\array_revers() | Файл: G:\OpenServer\domains\ishop2.loc\app\models\Breadcrumbs.php Строка: 24
+========
+[2022-12-25 21:24:38] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
