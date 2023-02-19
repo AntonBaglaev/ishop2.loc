@@ -10,6 +10,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <base href="/">	
 <?=$this->getMeta();?>    
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
 <link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
 <link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
@@ -90,7 +91,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!--bottom-header-->
 	
 <div class="content">
-	<?php debug($_SESSION); //session_destroy();  ?>
     <?=$content; ?>
 </div>
 
@@ -158,6 +158,26 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 	<!--footer-end-->	
 
+<!-- Modal -->
+<div class="modal fade" id="cart" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Корзина</h4>
+            </div>
+            <div class="modal-body">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Продолжить покупки</button>
+                <a href="cart/view" type="button" class="btn btn-primary">Оформить заказ</a>
+                <button type="button" class="btn btn-danger" onclick="clearCart()">Очистить корзину</button>
+            </div>
+        </div>
+    </div>
+</div>	
+
 <?php $curr = \ishop\App::$app->getProperty('currency'); ?>
 <script>
 	var path = '<?=PATH;?>',
@@ -167,6 +187,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </script>
 
 <script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <!--<script src="js/simpleCart.min.js"> </script>-->
 <!--dropdown-->
 <script src="js/jquery.easydropdown.js"></script>		
