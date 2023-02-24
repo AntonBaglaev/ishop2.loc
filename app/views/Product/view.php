@@ -56,7 +56,7 @@
 							<div class="clearfix"> </div>
 							</div>
 							
-							<h5 class="item_price" id="base-price" data-base="<?=$product->price * $curr['value'];?>"><?=$curr['symbol_left'];?><?=$curr['symbol_right'];?><?=$product->price * $curr['value'];?></h5>
+							<h5 class="item_price" id="base-price" data-base="<?=$product->price * $curr['value'];?>"><?=$curr['symbol_left'];?><?=$product->price * $curr['value'];?><?=$curr['symbol_right'];?></h5>
 							<?php if($product->old_price):?>
                                 <small><del><?=$curr['symbol_left'];?><?=$product->old_price * $curr['value'];?><?=$curr['symbol_right'];?></del></small>
                             <?php endif; ?>
@@ -139,7 +139,7 @@
 									<p>Explore Now</p>
 									<h4>
 										<a class="item_add add-to-cart-link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> 
-										<span class="item_price"><?=$curr['symbol_left'];?><?=$curr['symbol_right'];?><?=$item['price'] * $curr['value'];?></span>
+										<span class="item_price"><?=$curr['symbol_left'];?><?=$item['price'] * $curr['value'];?><?=$curr['symbol_right'];?></span>
 										<?php if($item['old_price']):?>
 											<small><del><?=$curr['symbol_left'];?><?=$item['old_price'] * $curr['value'];?><?=$curr['symbol_right'];?></del></small>
 										<?php endif; ?>
@@ -169,7 +169,7 @@
 									<p>Explore Now</p>
 									<h4>
 										<a class="item_add add-to-cart-link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> 
-										<span class="item_price"><?=$curr['symbol_left'];?><?=$curr['symbol_right'];?><?=$item['price'] * $curr['value'];?></span>
+										<span class="item_price"><?=$curr['symbol_left'];?><?=$item['price'] * $curr['value'];?><?=$curr['symbol_right'];?></span>
 										<?php if($item['old_price']):?>
 											<small><del><?=$curr['symbol_left'];?><?=$item['old_price'] * $curr['value'];?><?=$curr['symbol_right'];?></del></small>
 										<?php endif; ?>

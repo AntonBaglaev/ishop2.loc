@@ -59,6 +59,19 @@ function getCart(){
         }
     });
 }
+
+function clearCart() {
+    $.ajax({
+        url: '/cart/clear',
+        type: 'GET',
+        success: function(res){
+            showCart(res);
+        },
+        error: function(){
+            alert('Ошибка! Попробуйте позже');
+        }
+    });
+}
 /*Cart*/
 
 $('#currency').change(function(){
@@ -66,13 +79,13 @@ $('#currency').change(function(){
 });
 
 $('.available select').on('change', function(){
-    var modId = $(this) .val();
-        color = $(this) .find('option').filter(':selected').data('title'),
-        price = $(this) .find('option').filter(':selected').data('price'),
+    var modId = $(this).val();
+        color = $(this).find('option').filter(':selected').data('title'),
+        price = $(this).find('option').filter(':selected').data('price'),
         basePrice = $('#base-price').data('base');
     if(price){
-        $('#base-price').text(symboleLeft + price + symboleRight);
+        $('#base-price').text(symbolLeft + price + symbolRight);
     }else{
-        $('#base-price').text(symboleLeft + basePrice + symboleRight);
+        $('#base-price').text(symbolLeft + basePrice + symbolRight);
     }
 });
