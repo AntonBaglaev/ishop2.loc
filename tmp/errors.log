@@ -798,3 +798,5 @@
 ========
 [2023-02-24 19:49:22] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 33
 ========
+[2023-02-24 20:46:50] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
