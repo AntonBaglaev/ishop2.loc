@@ -774,3 +774,27 @@
 ========
 [2023-02-24 16:47:49] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
 ========
+[2023-02-24 19:03:56] Текст ошибки: Контроллер $controller не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 36
+========
+[2023-02-24 19:33:14] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 33
+========
+[2023-02-24 19:36:10] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 33
+========
+[2023-02-24 19:36:17] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 33
+========
+[2023-02-24 19:37:39] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 33
+========
+[2023-02-24 19:42:37] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 33
+========
+[2023-02-24 19:43:24] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2023-02-24 19:44:35] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2023-02-24 19:45:10] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2023-02-24 19:47:06] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2023-02-24 19:47:26] Текст ошибки: Страница не найдена | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 39
+========
+[2023-02-24 19:49:22] Текст ошибки: Метод $controller::$action не найден | Файл: G:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php Строка: 33
+========
